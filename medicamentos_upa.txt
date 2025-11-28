@@ -1,0 +1,504 @@
+================================================================================
+           LISTA DE MEDICAMENTOS DISPONÍVEIS EM UPA
+           (Unidade de Pronto Atendimento)
+           
+           Baseado na REMUME - Natal/RN 2018
+================================================================================
+
+1. ANALGÉSICOS E ANTIPIRÉTICOS
+--------------------------------------------------------------------------------
+• Dipirona 500mg - Comprimido
+• Dipirona 500mg/mL - Solução oral
+• Paracetamol 750mg - Comprimido
+• Paracetamol 200mg/mL - Solução oral
+
+2. ANTI-INFLAMATÓRIOS
+--------------------------------------------------------------------------------
+• Ibuprofeno 300mg - Comprimido
+• Ibuprofeno 600mg - Comprimido
+• Ibuprofeno 100mg/mL - Solução oral
+• Tenoxicam 20mg - Comprimido
+• Diclofenaco sódico 50mg - Comprimido
+• Nimesulida 100mg - Comprimido
+
+3. PREPARAÇÕES ANTIGOTOSAS
+--------------------------------------------------------------------------------
+• Alopurinol 100mg - Comprimido
+
+4. AGENTES BETABLOQUEADORES
+--------------------------------------------------------------------------------
+• Cloridrato de propranolol 40mg - Comprimido
+• Atenolol 25mg - Comprimido
+• Atenolol 50mg - Comprimido
+• Succinato de metoprolol 25mg - Comprimido de liberação controlada
+• Succinato de metoprolol 50mg - Comprimido de liberação controlada
+• Carvedilol 3,125mg - Comprimido
+• Carvedilol 12,5mg - Comprimido
+
+5. CORTICOSTERÓIDES
+--------------------------------------------------------------------------------
+• Fosfato dissódico de prednisolona 4,02mg/mL (equiv. 3mg prednisolona/mL) - Solução oral
+• Prednisona 5mg - Comprimido
+• Prednisona 20mg - Comprimido
+• Dexametasona 0,1% - Creme
+• Dexametasona 0,1% - Colírio ou pomada oftálmica
+
+6. RELAXANTE MUSCULAR
+--------------------------------------------------------------------------------
+• Cloridrato de ciclobenzaprina 5mg - Comprimido
+
+7. ADRENÉRGICOS INALATÓRIOS
+--------------------------------------------------------------------------------
+• Sulfato de salbutamol 5mg/mL - Solução inalante
+• Sulfato de salbutamol 0,5mg/mL - Solução injetável
+• Bromidrato de fenoterol 5mg/mL - Solução inalante
+
+8. PREPARAÇÕES NASAIS
+--------------------------------------------------------------------------------
+• Cloreto de sódio 0,9% - Solução nasal
+
+9. OUTROS MEDICAMENTOS PARA DOENÇAS RESPIRATÓRIAS OBSTRUTIVAS
+--------------------------------------------------------------------------------
+• Brometo de ipratrópio 0,25mg/mL - Solução inalante
+
+10. EXPECTORANTES
+--------------------------------------------------------------------------------
+• Cloridrato de ambroxol 30mg/mL - Xarope
+• Cloridrato de ambroxol 15mg/mL - Xarope
+
+11. ANTITUSSÍGENOS
+--------------------------------------------------------------------------------
+• Dropropizina 1,5mg/mL - Xarope
+
+12. ANTI-HISTAMÍNICOS PARA USO SISTÊMICO
+--------------------------------------------------------------------------------
+• Maleato de dexclorfeniramina 0,4mg/mL - Solução oral ou xarope
+• Cloridrato de hidroxizina 2mg/mL - Solução oral
+• Loratadina 10mg - Comprimido
+• Loratadina 1mg/mL - Xarope
+
+13. GLICOSÍDEOS CARDÍACOS
+--------------------------------------------------------------------------------
+• Digoxina 0,25mg - Comprimido
+• Digoxina 0,05mg/mL - Elixir
+
+14. BLOQUEADORES DOS CANAIS DE CÁLCIO
+--------------------------------------------------------------------------------
+• Cloridrato de verapamil 80mg - Comprimido
+• Besilato de anlodipino 5mg - Comprimido
+• Nifedipino 10mg - Comprimido
+• Nifedipino 20mg RETARD - Comprimido
+
+15. DIURÉTICOS
+--------------------------------------------------------------------------------
+• Furosemida 40mg - Comprimido
+• Hidroclorotiazida 25mg - Comprimido
+
+16. AGENTES POUPADORES DE POTÁSSIO
+--------------------------------------------------------------------------------
+• Espironolactona 25mg - Comprimido
+• Espironolactona 100mg - Comprimido
+
+17. INIBIDORES DA ECA
+--------------------------------------------------------------------------------
+• Captopril 25mg - Comprimido
+• Maleato de enalapril 10mg - Comprimido
+• Maleato de enalapril 20mg - Comprimido
+
+18. ANTAGONISTA DA ANGIOTENSINA II
+--------------------------------------------------------------------------------
+• Losartana potássica 50mg - Comprimido
+
+19. ADRENÉRGICOS DE AÇÃO CENTRAL
+--------------------------------------------------------------------------------
+• Metildopa 250mg - Comprimido
+• Metildopa 500mg - Comprimido
+
+20. ANTIARRÍTMICOS
+--------------------------------------------------------------------------------
+• Cloridrato de amiodarona 200mg - Comprimido
+
+21. AGENTES ANTITROMBÓTICOS
+--------------------------------------------------------------------------------
+• Varfarina 5mg - Comprimido
+• Ácido acetilsalicílico 100mg - Comprimido
+• Clopidogrel 75mg - Comprimido
+
+22. ANTIDISLIPIDÊMICOS
+--------------------------------------------------------------------------------
+• Sinvastatina 20mg - Comprimido
+• Sinvastatina 40mg - Comprimido
+
+23. INSULINAS E ANÁLOGOS
+--------------------------------------------------------------------------------
+• Insulina humana NPH 100UI/mL - Suspensão injetável
+• Insulina humana regular 100UI/mL - Solução injetável
+
+24. MEDICAMENTOS ANTIDIABETES
+--------------------------------------------------------------------------------
+• Cloridrato de metformina 500mg - Comprimido
+• Cloridrato de metformina 850mg - Comprimido
+• Glibenclamida 5mg - Comprimido
+• Glicazida 30mg - Comprimido lib. cont.
+• Glicazida 60mg - Comprimido lib. cont.
+
+25. VASODILATADORES CARDÍACOS
+--------------------------------------------------------------------------------
+• Dinitrato de isossorbida 5mg - Comprimido sublingual
+• Mononitrato de isossorbida 20mg - Comprimido
+• Propatilnitrato 10mg - Comprimido
+
+26. AGENTES QUE ATUAM NO MÚSCULO LISO ARTERIOLAR
+--------------------------------------------------------------------------------
+• Cloridrato de hidralazina 25mg - Comprimido
+
+27. ANESTÉSICOS LOCAIS
+--------------------------------------------------------------------------------
+• Cloridrato de lidocaína 2% - Gel
+
+28. ESTROGÊNIOS
+--------------------------------------------------------------------------------
+• Estriol 1mg/g - Creme vaginal
+
+29. ANTIFÚNGICOS
+--------------------------------------------------------------------------------
+• Cetoconazol 200mg - Comprimido
+• Cetoconazol 20mg/g - Creme
+• Fluconazol 150mg - Cápsula
+• Nitrato de miconazol 2% - Creme vaginal
+• Nistatina 100.000UI/mL - Pó para suspensão oral
+
+30. AGENTES ANTINEMATÓIDES (ANTI-HELMÍNTICOS)
+--------------------------------------------------------------------------------
+• Albendazol 400mg - Comprimido mastigável
+• Albendazol 40mg/mL - Suspensão oral
+• Ivermectina 6mg - Comprimido
+
+31. AGENTES CONTRA AMEBÍASE E DOENÇAS PROTOZOÁRIAS
+--------------------------------------------------------------------------------
+• Benzoilmetronidazol 40mg/mL - Suspensão oral
+• Metronidazol 250mg - Comprimido
+• Metronidazol 100mg/g - Gel vaginal
+• Secnidazol 1g - Comprimido
+
+32. ECTOPARASITICIDAS
+--------------------------------------------------------------------------------
+• Permetrina 5% - Loção
+
+33. ANTIVIRAIS
+--------------------------------------------------------------------------------
+• Aciclovir 200mg - Comprimido
+• Aciclovir 50mg/g - Creme
+
+34. MEDICAMENTOS PARA ÚLCERA PÉPTICA E DRGE
+--------------------------------------------------------------------------------
+• Cloridrato de ranitidina 150mg - Comprimido
+• Omeprazol 20mg - Cápsula
+
+35. ANTIÁCIDOS
+--------------------------------------------------------------------------------
+• Simeticona 75mg/mL - Suspensão oral
+• Hidróxido de alumínio 300mg - Comprimido
+• Hidróxido de alumínio 61,5mg/mL - Suspensão oral
+
+36. ANTIESPASMÓDICOS
+--------------------------------------------------------------------------------
+• Butilbrometo de escopolamina 10mg/mL - Solução oral
+• Butilbrometo de escopolamina + dipirona 6,67mg/mL + 333,4mg/mL - Solução oral
+
+37. ANTIEMÉTICOS
+--------------------------------------------------------------------------------
+• Cloridrato de metoclopramida 4mg/mL - Solução oral
+• Cloridrato de ondansetrona 4mg - Comprimido
+
+38. ADSORVENTES INTESTINAIS
+--------------------------------------------------------------------------------
+• Carvão vegetal ativado - Pó para uso oral
+
+39. LAXATIVOS
+--------------------------------------------------------------------------------
+• Glicerol 120mg/mL - Enema
+• Lactulose 667mg/mL - Xarope
+• Glicerol 72mg - Supositório
+• Fosfato de sódio monobásico + fosfato de sódio dibásico - Solução
+
+40. EMOLIENTES E PROTETORES
+--------------------------------------------------------------------------------
+• Óleo mineral - Óleo
+• Pasta d'água - Pasta
+• Retinol + colecalciferol + Óxido de zinco (5.000UI + 900UI + 150mg) - Pomada
+
+41. VITAMINAS E MINERAIS
+--------------------------------------------------------------------------------
+• Ácido fólico 5mg - Comprimido
+• Ácido fólico 0,2mg/mL - Solução oral
+• Sulfato ferroso 40mg - Comprimido
+• Sulfato ferroso 25mg/mL - Solução oral
+• Ácido ascórbico 500mg - Comprimido
+• Ácido ascórbico 200mg/mL - Solução oral
+• Cloridrato de Piridoxina 40mg - Comprimido
+• Cloridrato de tiamina 300mg - Comprimido
+• Palmitato de retinol 150.000UI/mL - Solução oral
+• Retinol 200.000UI - Cápsula
+• Vitaminas do complexo B - Comprimido, drágea ou solução oral
+
+42. SOLUÇÕES INTRAVENOSAS
+--------------------------------------------------------------------------------
+• Água para injeção 10mL, 250mL, 500mL - Ampola/Frasco
+• Glicose 5% - Solução injetável 250mL e 500mL
+• Glicose 25% - Solução injetável 10mL
+• Glicose 50% - Solução injetável 10mL
+• Bicarbonato de sódio 8,4% - Solução injetável 10mL e 250mL
+• Cloreto de potássio 10% - Solução injetável 10mL
+• Cloreto de potássio 19,1% - Solução injetável 10mL
+• Cloreto de sódio 0,9% - Solução injetável 10mL, 100mL, 250mL e 500mL
+• Cloreto de sódio 10% - Solução injetável 10mL
+• Cloreto de sódio 20% - Solução injetável 10mL
+• Glicose + cloreto de sódio 5% + 0,9% - Solução injetável 250mL e 500mL
+• Gluconato de cálcio 10% - Solução injetável 10mL
+• Solução ringer simples - Solução injetável 500mL
+• Solução ringer + lactato - Solução injetável 500mL
+• Sulfato de magnésio 10% - Solução injetável 10mL
+• Sulfato de magnésio 50% - Solução injetável 10mL
+
+43. ELETRÓLITOS COM CARBOIDRATOS
+--------------------------------------------------------------------------------
+• Sais para reidratação oral - Pó para solução oral
+
+44. FITOTERÁPICOS
+--------------------------------------------------------------------------------
+• Aloe vera (babosa) - Creme
+• Cynara scolymus (alcachofra) - Cápsula, comprimido, drágea, solução oral, tintura
+• Glycine max (isoflavona-de-soja) - Cápsula e comprimido
+• Harpagophytum procumbens (garra-do-diabo) - Cápsula e comprimido
+• Maytenus purshiana (espinheira-santa) - Cápsula, emulsão, solução oral, tintura
+• Mentha x piperita (hortelã) - Cápsula
+• Mikania glomerata (guaco) - Cápsula, xarope, solução oral, tintura
+• Rhamnus purshiana (cáscara-sagrada) - Cápsula e tintura
+• Salix alba (salgueiro) - Comprimido
+• Schinus terebenthifolius (aroeira) - Gel e óvulo
+• Uncaria tomentosa (unha-de-gato) - Cápsula, comprimido e gel
+
+================================================================================
+       MEDICAMENTOS DE CONTROLE ESPECIAL (ANEXO I - Portaria 344/98)
+================================================================================
+
+45. AGENTES ANTICOLINÉRGICOS
+--------------------------------------------------------------------------------
+• Cloridrato de biperideno 2mg - Comprimido (Lista C1)
+• Lactato de biperideno 5mg/mL - Solução injetável (Lista C1)
+
+46. ANSIOLÍTICOS
+--------------------------------------------------------------------------------
+• Bromazepam 3mg - Comprimido (Lista B1)
+• Diazepam 5mg - Comprimido (Lista B1)
+• Diazepam 10mg - Comprimido (Lista B1)
+• Diazepam 5mg/mL - Solução injetável (Lista B1)
+
+47. ANTIDEPRESSIVOS
+--------------------------------------------------------------------------------
+• Cloridrato de bupropiona 150mg - Comprimido (Lista C1)
+
+48. ANTAGONISTA OPIÓIDE
+--------------------------------------------------------------------------------
+• Cloridrato de naltrexona 50mg - Comprimido (Lista C1)
+
+49. ANTIEPILÉPTICOS
+--------------------------------------------------------------------------------
+• Fenitoína sódica 100mg - Comprimido (Lista C1)
+• Fenitoína sódica 50mg/mL - Solução injetável (Lista C1)
+• Fenobarbital 100mg/mL - Solução injetável (Lista B1)
+• Fenobarbital 40mg/mL - Solução oral (Lista B1)
+• Carbamazepina 200mg - Comprimido (Lista C1)
+• Carbamazepina 400mg - Comprimido (Lista C1)
+• Carbamazepina 20mg/mL - Suspensão oral (Lista C1)
+
+50. ANTIPSICÓTICOS
+--------------------------------------------------------------------------------
+• Cloridrato de clorpromazina 5mg/mL - Solução injetável (Lista C1)
+• Haloperidol 1mg - Comprimido (Lista C1)
+• Haloperidol 5mg - Comprimido (Lista C1)
+• Haloperidol 5mg/mL - Solução injetável (Lista C1)
+• Haloperidol 2mg/mL - Solução oral (Lista C1)
+
+51. HIPNÓTICOS E SEDATIVOS
+--------------------------------------------------------------------------------
+• Cloridrato de midazolam 5mg/mL - Solução injetável 3mL e 10mL (Lista B1)
+
+52. OPIÓIDES
+--------------------------------------------------------------------------------
+• Cloridrato de tramadol 50mg/mL - Solução injetável (Lista A2)
+• Cloridrato de tramadol 50mg - Comprimido (Lista A2)
+• Citrato de fentanila 0,05mg/mL - Solução injetável 2mL e 10mL (Lista A1)
+• Sulfato de morfina 10mg/mL - Solução injetável (Lista A1)
+• Sulfato de morfina 0,2mg/mL - Solução injetável (Lista A1)
+
+53. ANTÍDOTOS
+--------------------------------------------------------------------------------
+• Cloridrato de naloxona 0,4mg/mL - Solução injetável (Lista C1)
+• Flumazenil 0,1mg/mL - Solução injetável (Lista C1)
+
+54. ANESTÉSICOS GERAIS
+--------------------------------------------------------------------------------
+• Etomidato 2mg/mL - Solução injetável (Lista C1)
+
+================================================================================
+       MEDICAMENTOS ANTIMICROBIANOS (ANEXO II - RDC 20/2011)
+================================================================================
+
+55. ANTIBACTERIANOS BETA-LACTÂMICOS - PENICILINAS
+--------------------------------------------------------------------------------
+• Amoxicilina 500mg - Cápsula ou comprimido
+• Amoxicilina 50mg/mL - Pó para suspensão oral
+• Amoxicilina + Clavulanato de potássio 875mg + 125mg - Comprimido
+• Amoxicilina + Clavulanato de potássio 50mg + 12,5mg/mL - Suspensão oral
+• Benzilpenicilina benzatina 600.000UI - Pó para suspensão injetável
+• Benzilpenicilina benzatina 1.200.000UI - Pó para suspensão injetável
+• Benzilpenicilina potássica 5.000.000UI - Pó para suspensão injetável
+• Benzilpenicilina procaína + potássica 300.000UI + 100.000UI - Suspensão injetável
+• Ampicilina sódica 1g - Pó para suspensão injetável
+• Oxacilina sódica 500mg - Pó para solução injetável
+
+56. CARBAPENÊMICOS
+--------------------------------------------------------------------------------
+• Meropenem 500mg e 1g - Pó para solução injetável
+
+57. LINCOSAMIDAS
+--------------------------------------------------------------------------------
+• Cloridrato de clindamicina 300mg - Cápsula
+• Fosfato de clindamicina 150mg/mL - Solução injetável
+
+58. CEFALOSPORINAS
+--------------------------------------------------------------------------------
+• Cefalexina sódica 500mg - Cápsula ou comprimido
+• Cloridrato de cefalexina 100mg/mL - Suspensão oral
+• Cefalotina 1g - Pó para solução injetável
+• Cloridrato de cefepima 1g - Pó para solução injetável
+• Ceftriaxona sódica 500mg - Pó para solução injetável
+• Ceftriaxona sódica 1g - Pó para solução injetável
+
+59. SULFONAMIDAS E TRIMETOPRIMAS
+--------------------------------------------------------------------------------
+• Nitrofurantoína 100mg - Cápsula
+• Nitrofurantoína 5mg/mL - Suspensão oral
+• Sulfadiazina 500mg - Comprimido
+• Sulfametoxazol + trimetoprima 400mg + 80mg - Comprimido
+• Sulfametoxazol + trimetoprima 40mg + 8mg/mL - Suspensão oral
+
+60. AMINOCICLITÓIS
+--------------------------------------------------------------------------------
+• Tobramicina 0,3% - Solução oftálmica
+• Sulfato de amicacina 50mg/mL e 250mg/mL - Solução injetável
+• Sulfato de gentamicina 20mg/mL e 40mg/mL - Solução injetável
+
+61. MACROLÍDEOS
+--------------------------------------------------------------------------------
+• Azitromicina 500mg - Comprimido
+• Azitromicina 40mg/mL - Pó para suspensão oral
+• Claritromicina 250mg - Comprimido
+• Claritromicina 500mg - Pó liofilizado para solução injetável
+
+62. QUINOLONAS
+--------------------------------------------------------------------------------
+• Cloridrato de ciprofloxacino 500mg - Comprimido
+• Cloridrato de ciprofloxacino 2mg/mL - Solução injetável
+• Cloridrato de norfloxacino 400mg - Comprimido
+• Cloridrato de levofloxacino 500mg - Comprimido
+• Cloridrato de levofloxacino 5mg/mL - Solução injetável
+
+63. TETRACICLINAS
+--------------------------------------------------------------------------------
+• Cloridrato de doxiciclina 100mg - Comprimido
+
+64. DERIVADOS DO NITROIMIDAZOL
+--------------------------------------------------------------------------------
+• Metronidazol 5mg/mL - Solução injetável
+
+65. SULFONAMIDAS TÓPICAS
+--------------------------------------------------------------------------------
+• Sulfadiazina de prata 1% - Creme
+
+66. ANTIMICROBIANOS E CORTICOSTERÓIDES ASSOCIADOS
+--------------------------------------------------------------------------------
+• Neomicina + bacitracina 5mg/g + 250UI/g - Pomada
+
+67. OUTROS ANTIBIÓTICOS
+--------------------------------------------------------------------------------
+• Polimixina B + neomicina + hidrocortisona - Solução otológica
+
+================================================================================
+       MEDICAMENTOS DE USO HOSPITALAR (ANEXO III) - Disponíveis em UPA
+================================================================================
+
+68. MEDICAMENTOS INJETÁVEIS DE EMERGÊNCIA
+--------------------------------------------------------------------------------
+• Ácido épsilon-aminocapróico 1g e 4g - Pó para solução injetável
+• Ácido ascórbico 100mg/mL - Solução injetável
+• Ácido tranexânico 50mg/mL - Solução injetável
+• Adenosina 3mg/mL - Solução injetável
+• Alteplase 50mg - Solução injetável
+• Aminofilina 24mg/mL - Solução injetável
+• Amiodarona, cloridrato 50mg/mL - Solução injetável
+• Atropina, sulfato 0,25mg/mL e 0,5mg/mL - Solução injetável
+• Betametasona acetato + fosfato dissódico 3mg + 3mg/mL - Suspensão injetável
+• Colagenase 0,6UI - Pomada
+• Deslanosídeo 0,2mg/mL - Solução injetável
+• Dexametasona, fosfato dissódico 4mg/mL - Solução injetável
+• Diclofenaco sódico 25mg/mL - Solução injetável
+• Dimenidrinato + piridoxina 50mg/mL + 50mg/mL - Solução injetável
+• Dipirona 500mg/mL - Solução injetável
+• Dobutamina, cloridrato 12,5mg/mL - Solução injetável
+• Dopamina, cloridrato 5mg/mL - Solução injetável
+• Enoxaparina sódica 20mg/0,2mL - Solução injetável
+• Enoxaparina sódica 40mg/0,4mL - Solução injetável
+• Epinefrina, cloridrato ou hemitartarato 1mg/mL - Solução injetável
+• Escopolamina, butilbrometo 20mg/mL - Solução injetável
+• Escopolamina + dipirona sódica 4mg/mL + 500mg/mL - Solução injetável
+• Etomidato 2mg/mL - Solução injetável
+• Fluconazol 2mg/mL - Solução injetável
+• Flumazenil 0,1mg/mL - Solução injetável
+• Furosemida 10mg/mL - Solução injetável
+• Heparina sódica 5.000UI/0,25mL e 5.000UI/5mL - Solução injetável
+• Hidralazina, cloridrato 25mg - Comprimido
+• Hidrocortisona, succinato sódico 100mg e 500mg - Pó para solução injetável
+• Isossorbida, mononitrato 10mg/mL - Solução injetável
+• Lidocaína, cloridrato + epinefrina 2% + 1:200.000 - Solução injetável
+• Metilprednisolona, succinato sódico 125mg e 500mg - Pó para solução injetável
+• Metoclopramida, cloridrato 5mg/mL - Solução injetável
+• Metoprolol, tartarato 1mg/mL - Solução injetável
+• Neostigmina, metilsulfato 0,5mg/mL - Solução injetável
+• Nitroglicerina 5mg/mL - Solução injetável
+• Nitroprussiato de sódio 25mg/mL - Solução injetável
+• Norepinefrina, hemitartarato 2mg/mL - Solução injetável
+• Omeprazol 40mg/mL - Solução injetável
+• Ondansetrona, cloridrato 2mg/mL - Solução injetável
+• Prometazina, cloridrato 25mg/mL - Solução injetável
+• Ranitidina, cloridrato 25mg/mL - Solução injetável
+• Suxametônio, cloreto 10mg/mL e 50mg/mL - Pó para solução injetável
+• Tenoxicam 40mg/mL - Solução injetável
+• Bupivacaína 0,5% - Solução injetável
+
+================================================================================
+                            RESUMO
+================================================================================
+
+Total aproximado de medicamentos disponíveis em UPA: 200+ itens
+
+Categorias principais:
+- Analgésicos e anti-inflamatórios
+- Medicamentos cardiovasculares (anti-hipertensivos, antiarrítmicos, etc.)
+- Medicamentos respiratórios (broncodilatadores, expectorantes)
+- Medicamentos gastrointestinais (antiácidos, antieméticos, laxativos)
+- Antibióticos e antimicrobianos
+- Medicamentos de emergência (vasopressores, antídotos)
+- Soluções intravenosas e eletrólitos
+- Medicamentos de controle especial (sedativos, analgésicos opióides)
+- Insulinas e antidiabéticos
+- Corticosteróides
+- Antifúngicos e antiparasitários
+
+================================================================================
+Fonte: REMUME - Relação Municipal de Medicamentos Essenciais
+        Secretaria Municipal de Saúde - Natal/RN - 3ª Edição 2018
+================================================================================
+
