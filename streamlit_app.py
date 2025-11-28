@@ -421,9 +421,10 @@ def main():
     if analisar:
         if not historia_clinica.strip():
             st.warning("⚠️ Digite a história clínica do paciente.")
-        with st.spinner("🔄 Processando..."):
-            try:
-                model = configurar_gemini(api_key)
+        else:
+            with st.spinner("🔄 Processando..."):
+                try:
+                    model = configurar_gemini(api_key)
                     prompt = gerar_prompt_completo(historia_clinica)
                     response = model.generate_content(prompt)
                     resultado = processar_resposta(response.text)
