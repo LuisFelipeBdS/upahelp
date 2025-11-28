@@ -266,7 +266,7 @@ def configurar_gemini(api_key: str):
         "temperature": 0.3,  # Baixa para respostas mais diretas
         "top_p": 0.8,
         "top_k": 40,
-        "max_output_tokens": 2048,  # Limitado para velocidade
+        "max_output_tokens": 4096,  # Limitado para velocidade
     }
     
     safety_settings = [
